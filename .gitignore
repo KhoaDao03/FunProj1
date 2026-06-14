@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Large source PDFs used locally for ingestion
+documents/*.pdf
+
 # macOS
 .DS_Store
